@@ -7,11 +7,7 @@ The project focuses on the calculation of the Air Quality Index (AQI) and compar
 
 as a part of distributed intelligence to create awareness among the people. 
 
-Here, the machine learning strategies are utilized to 
-  
-  calculate the AQI and the relation among the other atmospheric components in the dataset and also to analyse how relative humidity 
-  
-  and solar radiation get affected based on the pollutants present in the atmosphere.
+Here, the machine learning strategies are utilized to calculate the AQI and the relation among the other atmospheric components in the dataset and also to analyse how relative humidity and solar radiation get affected based on the pollutants present in the atmosphere.
   
 **The scope of the project is to obtain sensor data from sites and to calculate, compare and visualize the data.**
 
